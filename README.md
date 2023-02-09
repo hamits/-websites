@@ -9,4 +9,4 @@
 <a href="https://github.com/hamits/html5">Simple Website 2</a> --- You can access the website <a href="https://hamits.github.io/html5/">here</a>
 
 <div style="display: flex">
-<div style="width: 50%"><a href="https://github.com/hamits/html6">NFT Market</a></div> <div style="width: 50%"> You can access the website <a href="https://hamits.github.io/html6/">here</a></div></div>
+<div style="width: 40%"><a href="https://github.com/hamits/html6">NFT Market</a></div> <div style="width: 40%"> You can access the website <a href="https://hamits.github.io/html6/">here</a></div></div>
