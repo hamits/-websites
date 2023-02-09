@@ -8,5 +8,7 @@
 
 <a href="https://github.com/hamits/html5">Simple Website 2</a> --- You can access the website <a href="https://hamits.github.io/html5/">here</a>
 
-<div style="display: flex; justify-content: space-around;">
-<div><a href="https://github.com/hamits/html6">NFT Market</a></div> <div> You can access the website <a href="https://hamits.github.io/html6/">here</a></div></div>
+<a href="https://github.com/hamits/html6">The Art Of War</a> --- You can access the website <a href="https://hamits.github.io/html6/">here</a>
+
+<a href="https://github.com/hamits/html7">Main Page Sample</a> --- You can access the website <a href="https://hamits.github.io/html7/">here</a>
+
