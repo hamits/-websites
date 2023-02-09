@@ -16,6 +16,6 @@
 
 <a href="https://github.com/hamits/html9">Website 4</a> --- You can access the website <a href="https://hamits.github.io/html9/">here</a>
 
-<a href="https://github.com/hamits/html10">TOGG</a> --- You can access the website <a href="https://hamits.github.io/html10/">here</a>
+<a href="https://github.com/hamits/togg">TOGG</a> --- You can access the website <a href="https://hamits.github.io/togg/">here</a>
 
-<a href="https://github.com/hamits/html11">Skyline</a> --- You can access the website <a href="https://hamits.github.io/html11/">here</a>
+<a href="https://github.com/hamits/skyline">Skyline</a> --- You can access the website <a href="https://hamits.github.io/skyline/">here</a>
