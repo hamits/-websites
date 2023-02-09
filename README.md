@@ -12,6 +12,6 @@
 
 <a href="https://github.com/hamits/html7">Main Page Sample</a> --- You can access the website <a href="https://hamits.github.io/html7/">here</a>
 
-<a href="https://github.com/hamits/html8">Simple Website 3</a> --- You can access the website <a href="https://hamits.github.io/html8/">here</a>
+<a href="https://github.com/hamits/html8">Website 3</a> --- You can access the website <a href="https://hamits.github.io/html8/">here</a>
 
-<a href="https://github.com/hamits/html9">Website 3</a> --- You can access the website <a href="https://hamits.github.io/html9/">here</a>
+<a href="https://github.com/hamits/html9">Website 4</a> --- You can access the website <a href="https://hamits.github.io/html9/">here</a>
