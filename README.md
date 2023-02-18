@@ -20,6 +20,6 @@
 
 <a href="https://github.com/hamits/skyline">Skyline</a> --- You can access the website <a href="https://hamits.github.io/skyline/">here</a>
 
-<a href="https://github.com/hamits/skyline">techIF</a> --- You can access the website <a href="https://hamits.github.io/techIF/">here</a>
+<a href="https://github.com/hamits/techIF">techIF</a> --- You can access the website <a href="https://hamits.github.io/techIF/">here</a>
 
 
