@@ -30,4 +30,8 @@
 
 <a href="https://github.com/hamits/music-player">Music Player</a> --- You can access the website <a href="https://hamits.github.io/music-player/">here</a>
 
+<a href="https://github.com/hamits/destiny">Destiny</a> --- You can access the website <a href="https://hamits.github.io/destiny/">here</a>
+
+<a href="https://github.com/hamits/quiz-competition">Destiny</a> --- You can access the website <a href="https://hamits.github.io/quiz-competition/">here</a>
+
 
