@@ -1,6 +1,6 @@
 <p> Some examples of project i made...</p>
 
-<a href="https://github.com/hamits//budget-calculator">Budget Calculator</a> --- You can access the website <a href="https://hamits.github.io//budget-calculator/">here</a>  
+<a href="https://github.com/hamits/budget-calculator">Budget Calculator</a> --- You can access the website <a href="https://hamits.github.io/budget-calculator/">here</a>  
 (React-Html-Css-Js)
 
 <a href="https://github.com/hamits/restaurant">Restaurant</a> --- You can access the website <a href="https://hamits.github.io/restaurant/">here</a>  
